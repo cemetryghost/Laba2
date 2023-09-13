@@ -1,0 +1,16 @@
+D:\Project Visual Studio\Laboratornaya2\Laboratornaya2\obj\Debug\net7.0-windows\Laboratornaya2.csproj.GenerateResource.cache
+D:\Project Visual Studio\Laboratornaya2\Laboratornaya2\obj\Debug\net7.0-windows\Laboratornaya2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project Visual Studio\Laboratornaya2\Laboratornaya2\obj\Debug\net7.0-windows\Laboratornaya2.AssemblyInfoInputs.cache
+D:\Project Visual Studio\Laboratornaya2\Laboratornaya2\obj\Debug\net7.0-windows\Laboratornaya2.AssemblyInfo.cs
+D:\Project Visual Studio\Laboratornaya2\Laboratornaya2\obj\Debug\net7.0-windows\Laboratornaya2.csproj.CoreCompileInputs.cache
+D:\Project Visual Studio\Laboratornaya2\Laboratornaya2\obj\Debug\net7.0-windows\Laboratornaya2.Form1.resources
+D:\Project Visual Studio\Laboratornaya2\Laboratornaya2\bin\Debug\net7.0-windows\Laboratornaya2.exe
+D:\Project Visual Studio\Laboratornaya2\Laboratornaya2\bin\Debug\net7.0-windows\Laboratornaya2.deps.json
+D:\Project Visual Studio\Laboratornaya2\Laboratornaya2\bin\Debug\net7.0-windows\Laboratornaya2.runtimeconfig.json
+D:\Project Visual Studio\Laboratornaya2\Laboratornaya2\bin\Debug\net7.0-windows\Laboratornaya2.dll
+D:\Project Visual Studio\Laboratornaya2\Laboratornaya2\bin\Debug\net7.0-windows\Laboratornaya2.pdb
+D:\Project Visual Studio\Laboratornaya2\Laboratornaya2\obj\Debug\net7.0-windows\Laboratornaya2.dll
+D:\Project Visual Studio\Laboratornaya2\Laboratornaya2\obj\Debug\net7.0-windows\refint\Laboratornaya2.dll
+D:\Project Visual Studio\Laboratornaya2\Laboratornaya2\obj\Debug\net7.0-windows\Laboratornaya2.pdb
+D:\Project Visual Studio\Laboratornaya2\Laboratornaya2\obj\Debug\net7.0-windows\Laboratornaya2.genruntimeconfig.cache
+D:\Project Visual Studio\Laboratornaya2\Laboratornaya2\obj\Debug\net7.0-windows\ref\Laboratornaya2.dll
